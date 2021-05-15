@@ -1,0 +1,13 @@
+{
+    "editor.accessibilityPageSize": 2000,
+    "files.autoSave": "onWindowChange",
+    "dart.enableCompletionCommitCharacters": true,
+    "dart.flutterCreateOffline": true,
+    "cmake.configureOnOpen": true,
+    "editor.fontSize": 20,
+    "customizeUI.activityBar": "regular",
+    "customizeUI.titleBar": "regular",
+    "workbench.colorCustomizations": {
+    
+    }
+}
